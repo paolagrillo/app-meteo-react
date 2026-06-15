@@ -1,11 +1,11 @@
-# App Meteo React 🌤️
+# Lista Nemici React 😈
 
-App meteo costruita con React che mostra temperatura, descrizione e umidità di qualsiasi città.
+App costruita con React per tenere traccia dei tuoi nemici, con salvataggio automatico tramite localStorage.
 
 ## Tecnologie usate
 - React
 - JavaScript
-- OpenWeatherMap API
+- localStorage
 
 ## Demo
-https://paolagrillo.github.io/app-meteo-react
+https://paolagrillo.github.io/lista-nemici-react
