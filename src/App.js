@@ -1,13 +1,10 @@
 import './App.css';
-import Meteo from './Meteo';
+import Todo from './Todo';
 
 function App() {
- 
-
-  return (
+   return (
     <div>
-      <h1>Meteo</h1>
-      <Meteo />
+      <Todo />
     </div>
   );
 }
